@@ -2,23 +2,23 @@
 
 Um projeto simples de **sistema de avaliação com estrelas/emoji** usando apenas HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar um **rating widget interativo com estrelas ou emojis**, sem uso de JavaScript.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Sistema de avaliação (rating)
 - Uso de estrelas ou emojis
 - Interação com hover
 - Sem JavaScript
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador  
